@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MAD PROJECT</string>
+
+    <!-- Add website names -->
+    <string-array name="website_array">
+        <item>Global Crypto</item>
+        <item>Crypto Newsz</item>
+        <item>Blockonomi</item>
+        <item>Crypto Briefing</item>
+        <item>Crypto Journal</item>
+        <item>Bitcoinist</item>
+        <item>Crypto Late</item>
+        <item>Crypto News</item>
+        <item>Inside Bitcoin</item>
+        <item>Coin Sutra</item>
+        <item>News BTC</item>
+        <!-- Add more websites here -->
+    </string-array>
+
+    <!-- Add filter options -->
+    <string-array name="filter_array">
+        <item>New First</item>
+        <item>Old First</item>
+
+    </string-array>
+    <string name="error_loading_content">Error loading content. Please try again later.</string>
+</resources>
